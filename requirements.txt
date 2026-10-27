@@ -1,0 +1,6 @@
+# Python 3.11 or later. Versions used to produce the manuscript results (Python 3.12.13):
+numpy>=2.0        # 2.1.3
+pandas>=2.2       # 2.3.3
+scipy>=1.13       # 1.17.1
+openpyxl>=3.1     # 3.1.5   (reading the .xlsx task files)
+matplotlib>=3.8   # 3.9.4   (Figure S1)

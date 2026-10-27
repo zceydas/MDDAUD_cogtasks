@@ -1,0 +1,9 @@
+# Participant data and everything derived from it stay out of the repository.
+outputs/
+data/
+*.xlsx
+*.csv
+!docs/*.csv
+__pycache__/
+.Rhistory
+.DS_Store
